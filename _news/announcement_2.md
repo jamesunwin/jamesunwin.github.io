@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022/01/15 16:11:00-0400
+date: 2022/11/15 16:11:00-0400
 inline: true
 ---
 
-My student, Mengxue Yang, successfully defended her PhD thesis titled "Generalized Opers".
+My PhD students Prolay Chanda and Qingyun Wang are both admitted to Doctoral Candidacy after successfully passing their Preliminary Examinations.
