@@ -22,3 +22,501 @@ I have given <b>150+ talks</b> on my research area as well as outreach talks ove
 {% endfor %}
 
 </div>
+
+
+@article{talk,
+  title = {<b>UIC's Young Scholars Program</b>, Stanford High, New College, Oxford},
+  year = {2021},
+  abbr = {UK},
+  color = {lightgrey}
+  }
+
+@article{talk,
+  title = {<b>New Trends in Dark Matter</b>, International Centre for Theoretical Physics (ICTP), Sao Paulo, Brazil},
+  year = {December 2020},
+  abbr = {Brazil},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>2020 American Geophysical Union Meeting</b>, (online) USA},
+  year = {December 2020},
+  abbr = {USA},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>MOCa 2019</b>, Universidad de los Andes, Colombia},
+  year = {October 2019},
+  abbr = {Colombia},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>Towards Dark Matter Discovery</b>, Kavli Institute for Cosmological Physics (KICP), University of Chicago, USA},
+  year = {April 2018},
+  abbr = {USA},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>APS Prairie Section 2017</b>, UI Chicago, USA},
+  year = {August 2017},
+  abbr = {USA},
+  color = {yellow}
+  }
+
+@article{talk,
+  title = {<b>DA$\nu$Co Conference</b>, (parallel) CP3-Origins, Odense, Denmark},
+  year = {August 2017},
+  abbr = {Denmark},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>Joint Rio Astrophysics Meeting</b>, Valongo Observatory, Chile},
+  year = {February 2017},
+  abbr = {Chile},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>NP @ 2017</b>, UN San Martin, Argentina},
+  year = {December 2016},
+  abbr = {Argentina},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>PASCOS 2016</b>, (parallel) Rencontres du Vietnam, Quy Nhon, Vietnam},
+  year = {July 2016},
+  abbr = {Vietnam},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>Gearing up for LHC13</b>, Galileo Galilei Institute (GGI), Florence, Italy},
+  year = {October 2015},
+  abbr = {Italy},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>Anticipating discoveries</b>, Technical University of Munich, Germany},
+  year = {July 2015},
+  abbr = {Germany},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>Baryon Lepton Violation 2015</b>, (parallel) University of Massachusett, Amherst, USA},
+  year = {April 2015},
+  abbr = {USA},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>IMS Summer School</b>, National University of Singapore, Singapore},
+  year = {July 2014},
+  abbr = {Singapore},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>Particlegenesis</b>, Kavli Institute for Theoretical Physics (KITP), University of California, Santa Barbara, USA},
+  year = {June 2014},
+  abbr = {USA},
+  color = {red}
+  }
+
+@article{talk,
+  title = {<b>Dark matter and the LHC</b>, Kavli Institute for Cosmological Physics (KICP), University of Chicago, USA},
+  year = {September 2013},
+  abbr = {USA},
+  color = {red}
+  }
+
+@article{talk,
+  title = {Northwestern University, Evanston, USA},
+  year = {March 2020},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of California, Berkeley, USA},
+  year = {December 2019},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of California, Davis, USA},
+  year = {December 2019},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Stanford University, USA},
+  year = {November 2019},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of California, Santa Cruz, USA},
+  year = {November 2019},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Brookhaven National Laboratory, Upton, USA},
+  year = {April 2019},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Massachusetts, Amherst, USA},
+  year = {April 2019},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Oxford, UK},
+  year = {November 2018},
+  abbr = {UK},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Durham University, UK},
+  year = {March 2018},
+  abbr = {UK},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Heidelberg, Germany},
+  year = {October 2017},
+  abbr = {Germany},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Universit\'e Libre de Bruxelles, Brussels, Belgium},
+  year = {October 2017},
+  abbr = {Belgium},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Bonn, Germany},
+  year = {October 2017},
+  abbr = {Germany},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Korea Institute for Advanced Study, Seoul, South Korea},
+  year = {June 2017},
+  abbr = {South Korea},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Kavli Institute for the Physics and Mathematics of the Universe (IPMU), Kashiwa, Japan},
+  year = {June 2017},
+  abbr = {Japan},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Tokyo, Japan},
+  year = {June 2017},
+  abbr = {Japan},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Southampton, UK},
+  year = {April 2017},
+  abbr = {UK},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Diderot-Paris VII (online), France},
+  year = {April 2017},
+  abbr = {France},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Fermi National Accelerator Laboratory, USA},
+  year = {March 2017},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Argonne National Laboratory, USA},
+  year = {March 2017},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Tata Institute of Fundamental Research, Mumbai, India},
+  year = {March 2017},
+  abbr = {India},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Raman Research Institute, Bangalore, India},
+  year = {March 2017},
+  abbr = {India},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Indian Institute of Astrophysics, Bangalore, India},
+  year = {March 2017},
+  abbr = {India},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Northwestern University, Evanston, USA},
+  year = {February 2017},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Chicago, USA},
+  year = {February 2017},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Brazilian Center for Research in Physics, Rio de Janeiro, Brazil},
+  year = {February 2017},
+  abbr = {Brazil},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Perimeter Institute, Waterloo, Canada},
+  year = {February 2017},
+  abbr = {Canada},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Laboratory of Theoretical and High Energy Physics (LPTHE), University Pierre and Marie Curie, Paris VI, France},
+  year = {July 2016},
+  abbr = {France},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Universidad Nacional de La Plata, Argentina},
+  year = {May 2016},
+  abbr = {Argentina},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Texas, Austin, USA},
+  year = {April 2016},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {International Centre for Theoretical Sciences (ICTS) of the Tata Institute, Bangalore, India},
+  year = {March 2016},
+  abbr = {India},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Indian Institute of Science, Bangalore, India},
+  year = {March 2016},
+  abbr = {India},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {European Organization for Nuclear Research (CERN), Switzerland},
+  year = {January 2016},
+  abbr = {Switzerland},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {\'Ecole Polytechnique F\'ed\'erale de Lausanne, Switzerland},
+  year = {January 2016},
+  abbr = {Switzerland},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Liverpool, UK},
+  year = {December 2015},
+  abbr = {UK},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Nottingham, UK},
+  year = {December 2015},
+  abbr = {UK},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Notre Dame, USA},
+  year = {April 2015},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Harvard University, Cambridge, USA},
+  year = {April 2015},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Minnesota, Minneapolis, USA},
+  year = {January 2015},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {UI Chicago, USA},
+  year = {January 2015},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {California Institute of Technology, Pasadena, USA},
+  year = {November 2014},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of California, Los Angeles, USA},
+  year = {November 2014},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Korea Institute for Advanced Study, Seoul, South Korea},
+  year = {November 2014},
+  abbr = {South Korea},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea},
+  year = {November 2014},
+  abbr = {South Korea},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {SLAC National Accelerator Laboratory, USA},
+  year = {October 2014},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Fermi National Accelerator Laboratory, USA},
+  year = {April 2014},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Argonne National Laboratory, USA},
+  year = {March 2014},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Michigan, Ann Arbor, USA},
+  year = {February 2014},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {UI Urbana-Champaign, USA},
+  year = {November 2013},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Notre Dame, USA},
+  year = {October 2013},
+  abbr = {USA},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Cambridge, UK},
+  year = {May 2013},
+  abbr = {UK},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Max Planck Institute for Kernphysik, Heidelberg, Germany},
+  year = {January 2013},
+  abbr = {Germany},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Heidelberg, Germany},
+  year = {January 2013},
+  abbr = {Germany},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Autonomous University of Barcelona, Spain},
+  year = {May 2012},
+  abbr = {Spain},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {University of Oxford, UK},
+  year = {April 2012},
+  abbr = {UK},
+  color = {blue}
+  }
+
+@article{talk,
+  title = {Institute for Particle Physics Phenomenology (IPPP), University of Durham, UK},
+  year = {November 2011},
+  abbr = {UK},
+  color = {blue}
+  }
