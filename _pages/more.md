@@ -9,8 +9,6 @@ children:
       permalink: /family/
     - title: Children Books
       permalink: /books/
-    - title: Cooking
-      permalink: /cooking/
       
 ---
 

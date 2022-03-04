@@ -9,6 +9,5 @@ children:
       permalink: /students/
     - title: Courses
       permalink: /teaching-courses/
-    - title: Prospective
-      permalink: /teaching-prosp/
+
 ---

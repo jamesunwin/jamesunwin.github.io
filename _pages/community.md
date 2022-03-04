@@ -9,8 +9,6 @@ children:
       permalink: /outreach/
     - title: Collaborators
       permalink: /collaborators/
-    - title: Visitors
-      permalink: /visitors/
       
       
 ---

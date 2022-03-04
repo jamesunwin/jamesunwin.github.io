@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mathematics
+title: Research
 nav: true
 order: 2
 dropdown: true
