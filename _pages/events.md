@@ -24,6 +24,116 @@ I draw a lot of inspiration for my research and teaching through interactions wi
 </div>
 
 
+@article{sonia2018,
+    color={lightgrey},
+    title = {<a href="https://schapos.people.uic.edu/Sonia2018.html"> Sonia Kovalevsky Day IV</a>,  <br> UIC, USA.},
+    link = {https://schapos.people.uic.edu/Sonia2018.html},
+    year = {2018},
+    journal = {Co-organized with James Unwin.},
+    img={/assets/img/sonia-2018.jpg}
+    }
+
+@article{sonia2019,
+    color={lightgrey},
+    title = {<a href="https://schapos.people.uic.edu/Sonia2019.html"> Sonia Kovalevsky Day V</a>, <br> UIC, USA.},
+    link = {https://schapos.people.uic.edu/Sonia2019.html},
+    year = {2019},
+    journal={Co-organized with James Unwin.},
+    img={/assets/img/sonia-2019.jpg}
+    }
+
+@article{sonia2020,
+    color={lightgrey},
+    title = {<a href="https://schapos.people.uic.edu/Sonia2020.html"> Sonia Kovalevsky Day VI</a>, <br> UIC, USA.},
+    link = {https://schapos.people.uic.edu/Sonia2020.html},
+    year = {2020},
+    journal={Co-organized with James Unwin.},
+    img={/assets/img/sonia-2020.png}
+    }
+
+@article{sonia2017,
+    color={lightgrey},
+    title = {<a href="https://schapos.people.uic.edu/Sonia2017.html"> Sonia Kovalevsky Day III</a>, <br> UIC, USA.},
+    link = {https://schapos.people.uic.edu/Sonia2017.html},
+    year = {2017},
+    journal={Co-organized with James Unwin.},
+    img={/assets/img/sonia-2017.jpg}
+    }
+
+@article{sonia2016,
+    color={lightgrey},
+    title = {<a href="https://schapos.people.uic.edu/Sonia2016.html"> Sonia Kovalevsky Day II</a>, <br> UIC, USA.},
+    link = {https://schapos.people.uic.edu/Sonia2016.html},
+    year = {2016},
+    journal={Co-organized with James Unwin.},
+    img={/assets/img/sonia-2016.png}
+    }
+
+@article{sonia2015,
+    color={lightgrey},
+    title = {<a href="https://schapos.people.uic.edu/Sonia2015.html"> Sonia Kovalevsky Day I</a>, <br> UIC, USA.},
+    link = {https://schapos.people.uic.edu/Sonia2015.html},
+    year = {2015},
+    journal={Co-organized with James Unwin.},
+    img={/assets/img/sonia-2015.jpg}
+    }
+
+@article{side2020,
+    color={lightgrey},
+    title = {<a href="http://unwin.people.uic.edu/SIDEMath.html"> SIDE Math June 2020</a>, <br> UIC, USA.},
+    link = {http://unwin.people.uic.edu/SIDEMath.html},
+    year = {2020},
+    journal={One-Day Workshop}
+    }
+          
+@article{particle2019,
+    color={lightgrey},
+    title = {<a href="http://unwin.people.uic.edu/ctpt19.html"> Current Trends in Particle Theory June 2019</a>, <br> UIC, USA.},
+    link = {http://unwin.people.uic.edu/ctpt19.html},
+    year = {2019},
+    journal={One-Day Workshop}
+    }
+          
+@article{particle2018,
+    color={lightgrey},
+    title = {<a href="http://unwin.people.uic.edu/ctpt18.html"> Current Trends in Particle Theory March 2018</a>, <br> UIC, USA.},
+    link = {http://unwin.people.uic.edu/ctpt18.html},
+    year = {2018},
+    journal={One-Day Workshop}
+    }
+          
+@article{particle2017,
+    color={lightgrey},
+    title = {<a href="http://unwin.people.uic.edu/ctpt17.html"> Current Trends in Particle Theory March 2017</a>, <br> UIC, USA.},
+    link = {http://unwin.people.uic.edu/ctpt17.html},
+    year = {2017},
+    journal={One-Day Workshop}
+    }
+          
+          ---- info to use (first items above are the ones corresponding to first item below ---
+          
+          
+\item {\bf Co-organiser:} UIC \href{http://schapos.people.uic.edu/Sonia2019.html}{annual ``Sonia Kovalevsky Day''} high school outreach. \hfill  2015-19
+
+
+\vspace{-1mm}
+
+\item  \href{http://unwin.people.uic.edu/SIDEMath.html}{``SIDE Math 2020''}, one-day workshop, UIC. \hfill  June 2020
+
+\vspace{-1mm}
+
+%\item {\bf One-Day Workshop:} \href{http://unwin.people.uic.edu/ctpt19.html}{``Current Trends in Particle Theory 2019''}, UIC. \hfill  June 2019
+\item   \href{http://unwin.people.uic.edu/CTPT19.html}{``Current Trends in Particle Theory 2019''}, one-day workshop,  UIC. \hfill  June 2019
+
+\vspace{-1mm}
+%\vspace{1mm}
+\item  \href{http://unwin.people.uic.edu/ctpt18.html}{``Current Trends in Particle Theory 2018''}, one-day workshop,  UIC. \hfill  March 2018
+
+\vspace{-1mm}
+%\vspace{1mm}
+\item \href{http://unwin.people.uic.edu/ctpt17.html}{``Current Trends in Particle Theory 2017''}, one-day workshop,  UIC. \hfill  March 2017
+
+
 
 ---
  
