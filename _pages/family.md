@@ -91,9 +91,6 @@ Our second son, <b>Alexander Ivan Unwin Schaposnik</b>, was born on October 8 20
 <br>
 
  
-<hr>
-<span style="font-size:15px">
- 
  
 
 </div>
