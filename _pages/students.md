@@ -10,7 +10,7 @@ heading: Students
 
 <div class="publications">
 
-In the last decade I have mentored several students at different levels. Below is a list of my former and current students.  To find more information about my broader "academic family" visit my <a href="https://www.mathgenealogy.org/id.php?id=171532">genealogy</a> entry. 
+In the last decade I have mentored students at many different levels. Below is a list of my former and current students, both graduate PhD students and high school students performing undergraduate research experience in association with  MIT's PRIMES programme. 
  
  <br>
  <hr>
@@ -29,8 +29,6 @@ In the last decade I have mentored several students at different levels. Below i
 <span style="font-size:15px">
 
 <h2>Former</h2>
-
-In reverse chronological order
 
 <div class="publications">
 
