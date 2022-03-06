@@ -9,5 +9,7 @@ children:
       permalink: /students/
     - title: Courses
       permalink: /teaching-courses/
+    - title: Outreach
+      permalink: /outreach/
 
 ---
