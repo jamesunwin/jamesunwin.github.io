@@ -6,7 +6,6 @@ nav: false
 heading: Children books
 ---
 
-In the last few years my priorities and time allocations shifted slightly, and the <i>human development</i> of little bodies that orbit us has taken one of the first sports in my priority list. In an attempt to combine this with my research and the educator inside me,  I decided to start writing and illustrating children books. You can see my work on children's book related to   <a href="#ene">Ene's book series</a>, <a href="#raccoon">Raccoon's book series</a> and <a href="#azul">translation work</a> below.
 
 <br>
 <hr>
@@ -43,7 +42,7 @@ My wife [Laura Schaposnik]](https://www.lauraschaposnik/) translated the book to
  
 <h1 id="ene">Ene and the Magic…  </h1>
  
-See also my wife's children's books about Ene the curious little mouse who explores magic places. Through the adventures of Ene, I hope to teach bilingual words (Spanish-English) on different topics. 
+See also my wife [Laura Schaposnik's]](https://www.lauraschaposnik/) children's books about Ene the curious little mouse who explores magic places. Through the adventures of Ene, I hope to teach bilingual words (Spanish-English) on different topics. 
  
 ### [Ene and the Magic Boxes (Amazon)](https://www.amazon.com/Ene-Magic-boxes-Artisans-Adventures/dp/1737058456)
 
