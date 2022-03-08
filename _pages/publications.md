@@ -13,6 +13,19 @@ heading: Publications
 <div class="publications">
 
 
+ // Loop through all rows, hide those which don't match the selected filter
+  for (i = 0; i < rows.length; i++) {
+    var abbr = rows[i].getElementsByClassName("abbr")[0];
+    if (abbr) {
+      var txtValue = abbr.textContent || abbr.innerText;
+    var primaryClass = rows[i].getElementsByClassName("primaryClass")[0];
+    if (primaryClass) {
+      var txtValue = primaryClass.textContent || primaryClass.innerText;
+      if (txtValue.indexOf(filter) > -1) {
+        rows[i].style.display = "";
+      } else {
+@@ -53,9 +53,9 @@ function filterSubject(filter) {
+
 
 My research program is dedicated to the study of physics beyond the Standard Model.   In particular, currently I am especially interested in dark matter, primordial black holes, non-standard cosmological histories, and searches for new particles. 
 
