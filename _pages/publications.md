@@ -19,10 +19,6 @@ My research program is dedicated to the study of physics beyond the Standard Mod
 <br>
 <br>
 
-
-<br>
-<br>
-
 My papers both within physics as well as on other topics, are listed below in reverse chronological order by year. Note that authors on all of my publications appear alphabetically. Citations to my papers can be found on <a href="https://inspirehep.net/authors/1077754?ui-citation-summary=true">Inspire</a>.
 Paper are tagged by their arXiv category and colored as follows:
 <span class="badge badge-danger">physics</span> <span class="badge badge-primary">interdisciplinary</span> .

@@ -7,10 +7,6 @@ heading: Children books
 ---
 
 
-<br>
-<hr>
-<span style="font-size:15px">
-<br>
 
  
  <h1 id="azul"> </h1>
@@ -30,6 +26,12 @@ During the 2021 pandemic I wrote his a children's book titled  <b>Reaching for t
         {% include figure.html path="assets/img/Books/azul3.jpg" title="Magic Tree" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<br>
+<hr>
+<span style="font-size:15px">
+<br>
+
 
 My wife  [Laura Schaposnik](http://lauraschaposnik.com/) translated the book to Spanish preserving both the message and the rhymes, making the book available in Spanish and English, as well as in a bilingual version. 
 
