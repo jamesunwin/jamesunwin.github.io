@@ -4,14 +4,11 @@ order: 2
 permalink: /publications/
 title: Publications
 description: 
-years: [2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]
+years: [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]
 nav: false
 heading: Publications
 ---
-
 <!-- _pages/publications.md -->
-<div class="publications">
-
 <script>
 function filterSubject(filter) {
   var list = document.getElementById("publicationList");
@@ -49,9 +46,6 @@ function filterSubject(filter) {
   }
 }
 </script>
-
-
-
 My research program is dedicated to the study of physics beyond the Standard Model.   In particular, currently I am especially interested in dark matter, primordial black holes, non-standard cosmological histories, and searches for new particles. 
 
 <br>
@@ -61,10 +55,26 @@ My papers both within physics as well as on other topics, are listed below in re
 Paper are tagged by their arXiv category and colored as follows:
 <span class="badge badge-danger">physics</span> <span class="badge badge-primary">interdisciplinary</span> .
 
+<br>
+<br>
+
+You can see my work in each area by clicking on the links below. 
+
+<center>
+<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('')" style="cursor: pointer;">all</abbr>&ensp;
+<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('geometry')" style="cursor: pointer;">geometry</abbr>&ensp;
+<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('applied')" style="cursor: pointer;">applied mathematics</abbr>
+<primaryClass class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('')" style="cursor: pointer;">all</primaryClass>&ensp;
+<primaryClass class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('geometry')" style="cursor: pointer;">geometry</primaryClass>&ensp;
+<primaryClass class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('applied')" style="cursor: pointer;">applied mathematics</primaryClass>
+</center>
+
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
-
 </div>
+
+
+
