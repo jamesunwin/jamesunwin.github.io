@@ -12,6 +12,7 @@ heading: Publications
 <!-- _pages/publications.md -->
 <div class="publications">
 
+<script> function filterSubject(filter) { var list = document.getElementById("publicationList"); var rows = list.getElementsByClassName("row"); // Loop through all rows, hide those which don't match the selected filter for (i = 0; i < rows.length; i++) { var abbr = rows[i].getElementsByClassName("abbr")[0]; if (abbr) { var txtValue = abbr.textContent || abbr.innerText; if (txtValue.indexOf(filter) > -1) { rows[i].style.display = ""; } else { rows[i].style.display = "none"; } } } // Loop through all sections, hide those which are empty var years = list.getElementsByClassName("year"); for (i = 0; i < years.length; i++) { var count = 0; for (j = 0; j < rows.length; j++) { var section_tag = rows[j].getElementsByClassName("section-tag")[0]; if (section_tag.textContent == years[i].textContent && rows[j].style.display == "") { count++; } } if (count != 0) { years[i].style.display = ""; } else { years[i].style.display = "none"; } } } </script>
 
 My research program is dedicated to the study of physics beyond the Standard Model.   In particular, currently I am especially interested in dark matter, primordial black holes, non-standard cosmological histories, and searches for new particles. 
 
