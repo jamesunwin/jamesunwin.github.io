@@ -12,7 +12,7 @@ heading: Talks
 <div class="publications">
 
 
-I have given <b>150+ talks</b> on my research area as well as outreach talks over the years. Below you can find a quasi complete list of them where I have classified them as
+I have given <b>80+ talks</b> on my research area as well as outreach talks over the years. Below you can find a quasi complete list of them where I have classified them as
 <span class="badge badge-danger">Conference</span> <span class="badge badge-primary">Seminar</span> <span class="badge badge-warning">Colloquia, Plenary talk or mini course </span>  and <span class="badge badge-light">Outreach</span> .
 
 
@@ -25,7 +25,21 @@ I have given <b>150+ talks</b> on my research area as well as outreach talks ove
 
 
 @article{talk,
-  title = {<b>UIC's Young Scholars Program</b>, Stanford High, New College, Oxford},
+  title = {<b> Young Scholars Program</b>, UIC},
+  year = {2021},
+  abbr = {UK},
+  color = {lightgrey}
+  }
+
+@article{talk,
+  title = {<b>Stanford High School</b> },
+  year = {2021},
+  abbr = {UK},
+  color = {lightgrey}
+  }
+  
+  @article{talk,
+  title = {<b>New College, Oxford</b> Middle Common Room},
   year = {2021},
   abbr = {UK},
   color = {lightgrey}
