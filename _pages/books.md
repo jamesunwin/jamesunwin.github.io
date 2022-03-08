@@ -31,7 +31,7 @@ During the 2021 pandemic I wrote his a children's book titled  <b>Reaching for t
     </div>
 </div>
 
-My wife [Laura Schaposnik](https://www.lauraschaposnik/) translated the book to Spanish preserving both the message and the rhymes, making the book available in Spanish and English, as well as in a bilingual version. 
+My wife [Laura Schaposnik](www.lauraschaposnik.com/) translated the book to Spanish preserving both the message and the rhymes, making the book available in Spanish and English, as well as in a bilingual version. 
 
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,7 +42,7 @@ My wife [Laura Schaposnik](https://www.lauraschaposnik/) translated the book to 
  
 <h1 id="ene">Ene and the Magic…  </h1>
  
-See also my wife [Laura Schaposnik's](https://www.lauraschaposnik/) children's books about Ene the curious little mouse who explores magic places. Through the adventures of Ene, I hope to teach bilingual words (Spanish-English) on different topics. 
+See also my wife [Laura Schaposnik's](www.lauraschaposnik.com/) children's books about Ene the curious little mouse who explores magic places. Through the adventures of Ene, I hope to teach bilingual words (Spanish-English) on different topics. 
  
 ### [Ene and the Magic Boxes (Amazon)](https://www.amazon.com/Ene-Magic-boxes-Artisans-Adventures/dp/1737058456)
 
