@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Assistant Professor</b> in the <a href="https://phys.uic.edu">Department of Physics</a>, University of Illinois, Chicago
+subtitle: <b>Assistant Professor</b>, <a href="https://phys.uic.edu">Department of Physics</a>, University of Illinois, Chicago
 
 profile:
   align: right
