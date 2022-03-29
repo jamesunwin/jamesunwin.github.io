@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 7
+order: 6
 permalink: /press/
 title: Press
 description: 
