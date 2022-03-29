@@ -9,9 +9,8 @@ nav: true
 heading: Press
 ---
 
-<!-- _pages/press.md -->
-<div class="press">
-
+<!-- _pages/publications.md -->
+<div class="publications">
 
 
 Several of my papers have appeared in major media outlets, an incomplete list is given below.
@@ -25,7 +24,7 @@ Paper are tagged by their arXiv category and colored as follows:
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+  {% bibliography -f press -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
