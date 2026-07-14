@@ -4,7 +4,7 @@ order: 2
 permalink: /publications/
 title: Publications
 description: 
-years: [2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]
+years: [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]
 nav: false
 heading: Publications
 ---
@@ -20,7 +20,7 @@ My research program is dedicated to the study of physics beyond the Standard Mod
 <br>
 
 My papers both within physics as well as on other topics, are listed below in reverse chronological order by year. Note that authors on all of my publications appear alphabetically. Citations to my papers can be found on <a href="https://inspirehep.net/authors/1077754?ui-citation-summary=true">Inspire</a>.
-Paper are tagged by their arXiv category and colored as follows:
+Papers are tagged by their arXiv category and colored as follows:
 <span class="badge badge-danger">physics</span> <span class="badge badge-primary">interdisciplinary</span> .
 
 

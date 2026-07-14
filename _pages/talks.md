@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: Talks
 description:  
-years: [ 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]
+years: [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]
 nav: false
 heading: Talks
 ---
@@ -12,7 +12,7 @@ heading: Talks
 <div class="publications">
 
 
-I have given <b>80+ talks</b> on my research area as well as outreach talks over the years. Below you can find a quasi complete list of them where I have classified them as
+I have given <b>80+ talks</b> on my research area as well as outreach talks over the years. Below is a nearly complete list, classified as
 <span class="badge badge-danger">Conference</span> <span class="badge badge-primary">Seminar</span> <span class="badge badge-warning">Colloquia  </span>  and <span class="badge badge-light">Outreach</span> .
 
 
@@ -22,4 +22,3 @@ I have given <b>80+ talks</b> on my research area as well as outreach talks over
 {% endfor %}
 
 </div>
-
