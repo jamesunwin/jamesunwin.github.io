@@ -22,5 +22,7 @@ My primary research interests lie at the intersection of particle physics, astro
 
 
 
+I recently started the [AIRSHIP Lab](https://airship-lab.github.io/) at UIC to bring together researchers working on applications of AI to scientific questions.
+
 <hr>
 <span style="font-size:15px">
